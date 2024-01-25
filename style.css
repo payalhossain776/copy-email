@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* our,holiday,holiday-text,holiday-img */
+.our{
+    width: 1320px;
+    margin: 50px auto;
+}
+.holiday{
+    margin: 15px auto;
+}
+.our .holiday .holiday-text h1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 52px;
+    font-weight: 700;
+}
+.our .holiday .holiday-text h6{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500;
+}
+.our .holiday .holiday-text h4{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 35px;
+    font-weight: 700;
+}
+.our .holiday .holiday-img img{
+    width: 750px;
+    height: 450px;
+    margin: 30px 280px;
+}
